@@ -1,13 +1,11 @@
 def main():
-    x = get_int()
+    x = get_int("what's x? ")
     print(f"x is a integer value: {x}")
 
-def get_int():
+def get_int(prompt):
     while True:
             try:
-                return int(input("Enter a number: ")) # input() takes input as string, int() converts it to integer
-                #similarly, you can use float() for decimal numbers
-                #print(f"You entered:{x}") # the 'f' before the string allows for inline variable interpolation
+                return int(input(prompt))
             except ValueError:
                 pass
 main()
