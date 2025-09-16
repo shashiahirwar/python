@@ -1,197 +1,200 @@
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-Shashis-MacBook-Pro:python3 shashi$ source /Users/shashi/Documents/Project/python3/.venv/bin/activate
-(.venv) Shashis-MacBook-Pro:python3 shashi$ /Users/shashi/Documents/Project/python3/.venv/bin/python /Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py
-Traceback (most recent call last):
-  File "/Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py", line 3, in <module>
-    with open("app.log") as f:
-         ~~~~^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'app.log'
-(.venv) Shashis-MacBook-Pro:python3 shashi$ 
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-Shashis-MacBook-Pro:python3 shashi$ source /Users/shashi/Documents/Project/python3/.venv/bin/activate
-(.venv) Shashis-MacBook-Pro:python3 shashi$ /Users/shashi/Documents/Project/python3/.venv/bin/python /Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py
-Traceback (most recent call last):
-  File "/Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py", line 3, in <module>
-    with open("app.log") as f:
-         ~~~~^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'app.log'
-(.venv) Shashis-MacBook-Pro:python3 shashi$ 
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-Shashis-MacBook-Pro:python3 shashi$ source /Users/shashi/Documents/Project/python3/.venv/bin/activate
-(.venv) Shashis-MacBook-Pro:python3 shashi$ /Users/shashi/Documents/Project/python3/.venv/bin/python /Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py
-Traceback (most recent call last):
-  File "/Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py", line 3, in <module>
-    with open("app.log") as f:
-         ~~~~^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'app.log'
-(.venv) Shashis-MacBook-Pro:python3 shashi$ 
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-Shashis-MacBook-Pro:python3 shashi$ source /Users/shashi/Documents/Project/python3/.venv/bin/activate
-(.venv) Shashis-MacBook-Pro:python3 shashi$ /Users/shashi/Documents/Project/python3/.venv/bin/python /Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py
-Traceback (most recent call last):
-  File "/Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py", line 3, in <module>
-    with open("app.log") as f:
-         ~~~~^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'app.log'
-(.venv) Shashis-MacBook-Pro:python3 shashi$ 
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-Shashis-MacBook-Pro:python3 shashi$ source /Users/shashi/Documents/Project/python3/.venv/bin/activate
-(.venv) Shashis-MacBook-Pro:python3 shashi$ /Users/shashi/Documents/Project/python3/.venv/bin/python /Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py
-Traceback (most recent call last):
-  File "/Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py", line 3, in <module>
-    with open("app.log") as f:
-         ~~~~^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'app.log'
-(.venv) Shashis-MacBook-Pro:python3 shashi$ 
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-Shashis-MacBook-Pro:python3 shashi$ source /Users/shashi/Documents/Project/python3/.venv/bin/activate
-(.venv) Shashis-MacBook-Pro:python3 shashi$ /Users/shashi/Documents/Project/python3/.venv/bin/python /Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py
-Traceback (most recent call last):
-  File "/Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py", line 3, in <module>
-    with open("app.log") as f:
-         ~~~~^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'app.log'
-(.venv) Shashis-MacBook-Pro:python3 shashi$ 
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-Shashis-MacBook-Pro:python3 shashi$ source /Users/shashi/Documents/Project/python3/.venv/bin/activate
-(.venv) Shashis-MacBook-Pro:python3 shashi$ /Users/shashi/Documents/Project/python3/.venv/bin/python /Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py
-Traceback (most recent call last):
-  File "/Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py", line 3, in <module>
-    with open("app.log") as f:
-         ~~~~^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'app.log'
-(.venv) Shashis-MacBook-Pro:python3 shashi$ 
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-Shashis-MacBook-Pro:python3 shashi$ source /Users/shashi/Documents/Project/python3/.venv/bin/activate
-(.venv) Shashis-MacBook-Pro:python3 shashi$ /Users/shashi/Documents/Project/python3/.venv/bin/python /Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py
-Traceback (most recent call last):
-  File "/Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py", line 3, in <module>
-    with open("app.log") as f:
-         ~~~~^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'app.log'
-(.venv) Shashis-MacBook-Pro:python3 shashi$ 
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-Shashis-MacBook-Pro:python3 shashi$ source /Users/shashi/Documents/Project/python3/.venv/bin/activate
-(.venv) Shashis-MacBook-Pro:python3 shashi$ /Users/shashi/Documents/Project/python3/.venv/bin/python /Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py
-Traceback (most recent call last):
-  File "/Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py", line 3, in <module>
-    with open("app.log") as f:
-         ~~~~^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'app.log'
-(.venv) Shashis-MacBook-Pro:python3 shashi$ 
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-Shashis-MacBook-Pro:python3 shashi$ source /Users/shashi/Documents/Project/python3/.venv/bin/activate
-(.venv) Shashis-MacBook-Pro:python3 shashi$ /Users/shashi/Documents/Project/python3/.venv/bin/python /Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py
-Traceback (most recent call last):
-  File "/Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py", line 3, in <module>
-    with open("app.log") as f:
-         ~~~~^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'app.log'
-(.venv) Shashis-MacBook-Pro:python3 shashi$ 
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-Shashis-MacBook-Pro:python3 shashi$ source /Users/shashi/Documents/Project/python3/.venv/bin/activate
-(.venv) Shashis-MacBook-Pro:python3 shashi$ /Users/shashi/Documents/Project/python3/.venv/bin/python /Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py
-Traceback (most recent call last):
-  File "/Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py", line 3, in <module>
-    with open("app.log") as f:
-         ~~~~^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'app.log'
-(.venv) Shashis-MacBook-Pro:python3 shashi$ 
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-Shashis-MacBook-Pro:python3 shashi$ source /Users/shashi/Documents/Project/python3/.venv/bin/activate
-(.venv) Shashis-MacBook-Pro:python3 shashi$ /Users/shashi/Documents/Project/python3/.venv/bin/python /Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py
-Traceback (most recent call last):
-  File "/Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py", line 3, in <module>
-    with open("app.log") as f:
-         ~~~~^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'app.log'
-(.venv) Shashis-MacBook-Pro:python3 shashi$ 
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-Shashis-MacBook-Pro:python3 shashi$ source /Users/shashi/Documents/Project/python3/.venv/bin/activate
-(.venv) Shashis-MacBook-Pro:python3 shashi$ /Users/shashi/Documents/Project/python3/.venv/bin/python /Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py
-Traceback (most recent call last):
-  File "/Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py", line 3, in <module>
-    with open("app.log") as f:
-         ~~~~^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'app.log'
-(.venv) Shashis-MacBook-Pro:python3 shashi$ 
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-Shashis-MacBook-Pro:python3 shashi$ source /Users/shashi/Documents/Project/python3/.venv/bin/activate
-(.venv) Shashis-MacBook-Pro:python3 shashi$ /Users/shashi/Documents/Project/python3/.venv/bin/python /Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py
-Traceback (most recent call last):
-  File "/Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py", line 3, in <module>
-    with open("app.log") as f:
-         ~~~~^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'app.log'
-(.venv) Shashis-MacBook-Pro:python3 shashi$ 
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-Shashis-MacBook-Pro:python3 shashi$ source /Users/shashi/Documents/Project/python3/.venv/bin/activate
-(.venv) Shashis-MacBook-Pro:python3 shashi$ /Users/shashi/Documents/Project/python3/.venv/bin/python /Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py
-Traceback (most recent call last):
-  File "/Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py", line 3, in <module>
-    with open("app.log") as f:
-         ~~~~^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'app.log'
-(.venv) Shashis-MacBook-Pro:python3 shashi$ 
-
-The default interactive shell is now zsh.
-To update your account to use zsh, please run `chsh -s /bin/zsh`.
-For more details, please visit https://support.apple.com/kb/HT208050.
-Shashis-MacBook-Pro:python3 shashi$ source /Users/shashi/Documents/Project/python3/.venv/bin/activate
-(.venv) Shashis-MacBook-Pro:python3 shashi$ /Users/shashi/Documents/Project/python3/.venv/bin/python /Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py
-Traceback (most recent call last):
-  File "/Users/shashi/Documents/Project/python3/Interview_questions/readLogFile.py", line 3, in <module>
-    with open("app.log") as f:
-         ~~~~^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: 'app.log'
-(.venv) Shashis-MacBook-Pro:python3 shashi$ 
-
-10.0.9.1
-
-
-10.0.9.1
-10.0.9.110.0.9.1
+244.245.99.116 - - [16/Sep/2025:11:20:09 +0200] "DELETE /api/v1/settings HTTP/1.1" 201 1685
+166.252.252.125 - - [16/Sep/2025:11:20:14 +0200] "GET /api/v1/products HTTP/1.1" 302 5150
+220.169.250.44 - - [16/Sep/2025:11:20:19 +0200] "POST /dashboard HTTP/1.1" 201 1767
+73.220.212.93 - - [16/Sep/2025:11:20:24 +0200] "GET /static/js/app.js HTTP/1.1" 302 2729
+82.11.31.133 - - [16/Sep/2025:11:20:29 +0200] "POST /api/v1/products HTTP/1.1" 302 10282
+171.220.26.199 - - [16/Sep/2025:11:20:34 +0200] "GET /api/v1/orders HTTP/1.1" 204 7279
+125.225.238.211 - - [16/Sep/2025:11:20:39 +0200] "DELETE /static/js/app.js HTTP/1.1" 201 2699
+57.75.108.141 - - [16/Sep/2025:11:20:44 +0200] "PUT /logout HTTP/1.1" 302 8374
+44.103.171.138 - - [16/Sep/2025:11:20:49 +0200] "DELETE /api/v1/settings HTTP/1.1" 201 7706
+211.174.153.40 - - [16/Sep/2025:11:20:54 +0200] "PUT /api/v1/login HTTP/1.1" 200 11958
+228.53.254.23 - - [16/Sep/2025:11:20:59 +0200] "PUT /health HTTP/1.1" 500 2963
+125.14.170.31 - - [16/Sep/2025:11:21:04 +0200] "GET /api/v1/products HTTP/1.1" 204 8270
+120.80.195.172 - - [16/Sep/2025:11:21:09 +0200] "GET /static/js/app.js HTTP/1.1" 200 4742
+86.118.189.136 - - [16/Sep/2025:11:21:14 +0200] "PUT /api/v1/products HTTP/1.1" 304 7081
+138.221.70.23 - - [16/Sep/2025:11:21:19 +0200] "PUT /health HTTP/1.1" 401 4187
+227.54.250.86 - - [16/Sep/2025:11:21:24 +0200] "GET /api/v1/settings HTTP/1.1" 500 9824
+19.66.254.245 - - [16/Sep/2025:11:21:29 +0200] "DELETE /api/v1/products HTTP/1.1" 302 8385
+46.52.227.165 - - [16/Sep/2025:11:21:34 +0200] "POST /dashboard HTTP/1.1" 401 6466
+167.179.148.57 - - [16/Sep/2025:11:21:39 +0200] "PUT /api/v1/orders HTTP/1.1" 302 6410
+112.16.21.98 - - [16/Sep/2025:11:21:44 +0200] "POST /api/v1/settings HTTP/1.1" 304 6663
+107.95.66.34 - - [16/Sep/2025:11:21:49 +0200] "DELETE /api/v1/products HTTP/1.1" 304 7985
+155.149.155.102 - - [16/Sep/2025:11:21:54 +0200] "DELETE /api/v1/orders HTTP/1.1" 200 9267
+3.206.198.146 - - [16/Sep/2025:11:21:59 +0200] "DELETE /dashboard HTTP/1.1" 302 11747
+89.22.167.98 - - [16/Sep/2025:11:22:04 +0200] "GET /api/v1/products HTTP/1.1" 304 11075
+246.99.1.113 - - [16/Sep/2025:11:22:09 +0200] "PUT /api/v1/login HTTP/1.1" 302 5286
+203.181.143.145 - - [16/Sep/2025:11:22:14 +0200] "GET /dashboard HTTP/1.1" 201 7741
+209.213.123.119 - - [16/Sep/2025:11:22:19 +0200] "POST /api/v1/orders HTTP/1.1" 304 10576
+46.128.152.20 - - [16/Sep/2025:11:22:24 +0200] "GET /api/v1/products HTTP/1.1" 302 2146
+17.220.178.185 - - [16/Sep/2025:11:22:29 +0200] "DELETE /dashboard HTTP/1.1" 204 3430
+128.198.131.44 - - [16/Sep/2025:11:22:34 +0200] "GET /api/v1/settings HTTP/1.1" 500 1746
+83.183.224.64 - - [16/Sep/2025:11:22:39 +0200] "POST /logout HTTP/1.1" 401 10942
+38.12.210.51 - - [16/Sep/2025:11:22:44 +0200] "POST /dashboard HTTP/1.1" 204 9666
+245.163.35.95 - - [16/Sep/2025:11:22:49 +0200] "POST /dashboard HTTP/1.1" 401 6218
+179.239.178.6 - - [16/Sep/2025:11:22:54 +0200] "POST /api/v1/products HTTP/1.1" 401 337
+234.253.165.74 - - [16/Sep/2025:11:22:59 +0200] "DELETE /api/v1/users HTTP/1.1" 304 7962
+38.111.168.236 - - [16/Sep/2025:11:23:04 +0200] "DELETE /health HTTP/1.1" 500 7713
+178.243.231.24 - - [16/Sep/2025:11:23:09 +0200] "GET /dashboard HTTP/1.1" 302 4986
+219.180.195.168 - - [16/Sep/2025:11:23:14 +0200] "GET /api/v1/settings HTTP/1.1" 204 9934
+34.17.171.72 - - [16/Sep/2025:11:23:19 +0200] "PUT /api/v1/orders HTTP/1.1" 401 3838
+81.120.10.226 - - [16/Sep/2025:11:23:24 +0200] "GET /static/js/app.js HTTP/1.1" 302 3652
+151.245.49.134 - - [16/Sep/2025:11:23:29 +0200] "POST /api/v1/settings HTTP/1.1" 500 5163
+170.143.120.175 - - [16/Sep/2025:11:23:34 +0200] "GET /api/v1/login HTTP/1.1" 204 11785
+84.251.71.236 - - [16/Sep/2025:11:23:39 +0200] "GET /api/v1/orders HTTP/1.1" 401 1855
+254.85.18.187 - - [16/Sep/2025:11:23:44 +0200] "PUT /api/v1/products HTTP/1.1" 302 10420
+13.139.60.16 - - [16/Sep/2025:11:23:49 +0200] "PUT /logout HTTP/1.1" 304 9743
+56.79.87.150 - - [16/Sep/2025:11:23:54 +0200] "POST /api/v1/products HTTP/1.1" 401 5908
+170.104.113.129 - - [16/Sep/2025:11:23:59 +0200] "POST /api/v1/settings HTTP/1.1" 204 3963
+56.189.215.54 - - [16/Sep/2025:11:24:04 +0200] "DELETE /static/js/app.js HTTP/1.1" 401 6842
+202.208.127.52 - - [16/Sep/2025:11:24:09 +0200] "GET /api/v1/users HTTP/1.1" 201 11783
+28.218.246.194 - - [16/Sep/2025:11:24:14 +0200] "DELETE /logout HTTP/1.1" 201 5750
+152.102.92.188 - - [16/Sep/2025:11:24:19 +0200] "PUT /logout HTTP/1.1" 201 7030
+82.72.79.253 - - [16/Sep/2025:11:24:24 +0200] "PUT /api/v1/users HTTP/1.1" 401 9987
+156.240.174.218 - - [16/Sep/2025:11:24:29 +0200] "DELETE /logout HTTP/1.1" 302 9598
+66.169.238.209 - - [16/Sep/2025:11:24:34 +0200] "DELETE /logout HTTP/1.1" 200 7095
+225.20.185.209 - - [16/Sep/2025:11:24:39 +0200] "DELETE /api/v1/products HTTP/1.1" 401 1873
+226.95.86.95 - - [16/Sep/2025:11:24:44 +0200] "PUT /api/v1/users HTTP/1.1" 302 1914
+174.159.120.198 - - [16/Sep/2025:11:24:49 +0200] "DELETE /dashboard HTTP/1.1" 204 5993
+240.132.11.2 - - [16/Sep/2025:11:24:54 +0200] "PUT /api/v1/users HTTP/1.1" 401 6589
+14.158.36.125 - - [16/Sep/2025:11:24:59 +0200] "DELETE /dashboard HTTP/1.1" 201 4521
+63.92.118.199 - - [16/Sep/2025:11:25:04 +0200] "PUT /health HTTP/1.1" 200 6492
+140.49.222.176 - - [16/Sep/2025:11:25:09 +0200] "DELETE /static/js/app.js HTTP/1.1" 304 2984
+117.58.93.204 - - [16/Sep/2025:11:25:14 +0200] "DELETE /health HTTP/1.1" 304 8687
+229.238.10.50 - - [16/Sep/2025:11:25:19 +0200] "POST /api/v1/settings HTTP/1.1" 401 7483
+93.182.60.197 - - [16/Sep/2025:11:25:24 +0200] "PUT /api/v1/products HTTP/1.1" 401 5381
+223.97.77.43 - - [16/Sep/2025:11:25:29 +0200] "POST /api/v1/orders HTTP/1.1" 204 7483
+69.132.199.105 - - [16/Sep/2025:11:25:34 +0200] "PUT /api/v1/products HTTP/1.1" 200 1179
+156.40.28.33 - - [16/Sep/2025:11:25:39 +0200] "DELETE /api/v1/users HTTP/1.1" 302 3315
+158.124.214.158 - - [16/Sep/2025:11:25:44 +0200] "PUT /dashboard HTTP/1.1" 401 9504
+153.211.31.153 - - [16/Sep/2025:11:25:49 +0200] "POST /api/v1/settings HTTP/1.1" 302 2745
+34.25.187.118 - - [16/Sep/2025:11:25:54 +0200] "DELETE /api/v1/orders HTTP/1.1" 204 5271
+113.117.78.253 - - [16/Sep/2025:11:25:59 +0200] "POST /api/v1/users HTTP/1.1" 500 7468
+81.50.48.207 - - [16/Sep/2025:11:26:04 +0200] "GET /api/v1/settings HTTP/1.1" 201 7797
+197.175.65.234 - - [16/Sep/2025:11:26:09 +0200] "POST /api/v1/login HTTP/1.1" 204 232
+204.208.202.241 - - [16/Sep/2025:11:26:14 +0200] "GET /api/v1/products HTTP/1.1" 302 6769
+250.131.142.67 - - [16/Sep/2025:11:26:19 +0200] "PUT /api/v1/settings HTTP/1.1" 200 8718
+52.221.53.88 - - [16/Sep/2025:11:26:24 +0200] "DELETE /health HTTP/1.1" 500 11117
+191.67.182.87 - - [16/Sep/2025:11:26:29 +0200] "DELETE /dashboard HTTP/1.1" 401 5368
+213.83.200.79 - - [16/Sep/2025:11:26:34 +0200] "GET /api/v1/users HTTP/1.1" 500 545
+98.106.138.181 - - [16/Sep/2025:11:26:39 +0200] "GET /api/v1/settings HTTP/1.1" 201 10889
+135.233.55.191 - - [16/Sep/2025:11:26:44 +0200] "PUT /logout HTTP/1.1" 500 8083
+71.196.204.235 - - [16/Sep/2025:11:26:49 +0200] "DELETE /health HTTP/1.1" 204 11376
+204.125.80.41 - - [16/Sep/2025:11:26:54 +0200] "PUT /dashboard HTTP/1.1" 500 6626
+207.80.34.229 - - [16/Sep/2025:11:26:59 +0200] "GET /static/js/app.js HTTP/1.1" 500 9027
+131.86.65.253 - - [16/Sep/2025:11:27:04 +0200] "GET /api/v1/products HTTP/1.1" 201 9247
+86.130.59.143 - - [16/Sep/2025:11:27:09 +0200] "GET /api/v1/settings HTTP/1.1" 304 7137
+211.161.202.160 - - [16/Sep/2025:11:27:14 +0200] "GET /dashboard HTTP/1.1" 302 1856
+156.23.15.212 - - [16/Sep/2025:11:27:19 +0200] "DELETE /dashboard HTTP/1.1" 500 4584
+161.102.75.82 - - [16/Sep/2025:11:27:24 +0200] "POST /logout HTTP/1.1" 302 2487
+29.110.74.23 - - [16/Sep/2025:11:27:29 +0200] "PUT /api/v1/settings HTTP/1.1" 500 3402
+9.113.104.190 - - [16/Sep/2025:11:27:34 +0200] "POST /dashboard HTTP/1.1" 204 3372
+39.162.178.42 - - [16/Sep/2025:11:27:39 +0200] "DELETE /health HTTP/1.1" 304 7731
+158.99.91.2 - - [16/Sep/2025:11:27:44 +0200] "GET /api/v1/settings HTTP/1.1" 401 8057
+240.147.102.240 - - [16/Sep/2025:11:27:49 +0200] "POST /api/v1/settings HTTP/1.1" 500 9147
+98.113.140.70 - - [16/Sep/2025:11:27:54 +0200] "DELETE /health HTTP/1.1" 302 5585
+152.129.184.250 - - [16/Sep/2025:11:27:59 +0200] "PUT /api/v1/users HTTP/1.1" 200 8618
+224.88.22.229 - - [16/Sep/2025:11:28:04 +0200] "GET /static/js/app.js HTTP/1.1" 204 5999
+54.59.142.231 - - [16/Sep/2025:11:28:09 +0200] "GET /dashboard HTTP/1.1" 204 5943
+241.133.107.153 - - [16/Sep/2025:11:28:14 +0200] "POST /api/v1/products HTTP/1.1" 401 1537
+150.211.125.45 - - [16/Sep/2025:11:28:19 +0200] "PUT /api/v1/settings HTTP/1.1" 204 6042
+41.124.142.114 - - [16/Sep/2025:11:28:24 +0200] "DELETE /api/v1/settings HTTP/1.1" 200 3789
+46.145.242.181 - - [16/Sep/2025:11:28:29 +0200] "POST /dashboard HTTP/1.1" 302 4104
+183.68.134.43 - - [16/Sep/2025:11:28:34 +0200] "POST /api/v1/users HTTP/1.1" 201 2630
+51.119.142.238 - - [16/Sep/2025:11:28:39 +0200] "GET /api/v1/users HTTP/1.1" 304 8150
+126.10.90.194 - - [16/Sep/2025:11:28:44 +0200] "GET /dashboard HTTP/1.1" 401 5712
+99.205.191.240 - - [16/Sep/2025:11:28:49 +0200] "PUT /api/v1/orders HTTP/1.1" 304 10093
+197.22.234.248 - - [16/Sep/2025:11:28:54 +0200] "POST /api/v1/settings HTTP/1.1" 302 5078
+84.170.234.92 - - [16/Sep/2025:11:28:59 +0200] "DELETE /static/js/app.js HTTP/1.1" 201 232
+149.98.190.90 - - [16/Sep/2025:11:29:04 +0200] "GET /dashboard HTTP/1.1" 401 11554
+133.89.239.203 - - [16/Sep/2025:11:29:09 +0200] "GET /dashboard HTTP/1.1" 201 9892
+1.234.59.218 - - [16/Sep/2025:11:29:14 +0200] "PUT /dashboard HTTP/1.1" 401 11903
+219.83.200.37 - - [16/Sep/2025:11:29:19 +0200] "POST /api/v1/users HTTP/1.1" 302 10193
+128.59.107.145 - - [16/Sep/2025:11:29:24 +0200] "DELETE /logout HTTP/1.1" 500 8992
+215.195.214.28 - - [16/Sep/2025:11:29:29 +0200] "POST /dashboard HTTP/1.1" 500 6378
+77.95.31.109 - - [16/Sep/2025:11:29:34 +0200] "DELETE /api/v1/products HTTP/1.1" 302 3516
+119.181.181.15 - - [16/Sep/2025:11:29:39 +0200] "DELETE /dashboard HTTP/1.1" 401 10995
+95.133.184.221 - - [16/Sep/2025:11:29:44 +0200] "DELETE /api/v1/products HTTP/1.1" 304 1934
+231.22.31.187 - - [16/Sep/2025:11:29:49 +0200] "DELETE /api/v1/settings HTTP/1.1" 401 7005
+163.247.105.247 - - [16/Sep/2025:11:29:54 +0200] "PUT /static/js/app.js HTTP/1.1" 302 9370
+5.190.110.201 - - [16/Sep/2025:11:29:59 +0200] "PUT /api/v1/products HTTP/1.1" 302 11374
+190.61.216.30 - - [16/Sep/2025:11:30:04 +0200] "DELETE /dashboard HTTP/1.1" 401 9257
+205.71.212.194 - - [16/Sep/2025:11:30:09 +0200] "GET /api/v1/login HTTP/1.1" 401 8908
+74.62.232.108 - - [16/Sep/2025:11:30:14 +0200] "GET /logout HTTP/1.1" 201 7235
+164.53.86.232 - - [16/Sep/2025:11:30:19 +0200] "POST /logout HTTP/1.1" 302 7211
+188.140.123.160 - - [16/Sep/2025:11:30:24 +0200] "DELETE /api/v1/settings HTTP/1.1" 201 10638
+31.129.57.183 - - [16/Sep/2025:11:30:29 +0200] "DELETE /health HTTP/1.1" 500 11573
+31.154.127.199 - - [16/Sep/2025:11:30:34 +0200] "GET /logout HTTP/1.1" 304 8574
+255.24.247.10 - - [16/Sep/2025:11:30:39 +0200] "PUT /api/v1/settings HTTP/1.1" 304 2696
+242.144.77.173 - - [16/Sep/2025:11:30:44 +0200] "PUT /api/v1/products HTTP/1.1" 201 756
+7.18.129.171 - - [16/Sep/2025:11:30:49 +0200] "DELETE /api/v1/orders HTTP/1.1" 304 9110
+193.76.158.139 - - [16/Sep/2025:11:30:54 +0200] "POST /api/v1/login HTTP/1.1" 302 7412
+38.193.158.216 - - [16/Sep/2025:11:30:59 +0200] "DELETE /api/v1/settings HTTP/1.1" 304 841
+73.222.21.157 - - [16/Sep/2025:11:31:04 +0200] "PUT /static/js/app.js HTTP/1.1" 201 2124
+175.99.189.116 - - [16/Sep/2025:11:31:09 +0200] "PUT /dashboard HTTP/1.1" 200 7071
+147.44.254.122 - - [16/Sep/2025:11:31:14 +0200] "GET /api/v1/login HTTP/1.1" 302 6209
+251.155.116.201 - - [16/Sep/2025:11:31:19 +0200] "GET /api/v1/orders HTTP/1.1" 304 7619
+39.12.104.248 - - [16/Sep/2025:11:31:24 +0200] "DELETE /dashboard HTTP/1.1" 304 6617
+149.4.6.99 - - [16/Sep/2025:11:31:29 +0200] "POST /logout HTTP/1.1" 201 5268
+182.107.91.94 - - [16/Sep/2025:11:31:34 +0200] "PUT /dashboard HTTP/1.1" 201 439
+154.120.85.126 - - [16/Sep/2025:11:31:39 +0200] "POST /api/v1/orders HTTP/1.1" 500 1758
+167.42.47.103 - - [16/Sep/2025:11:31:44 +0200] "POST /api/v1/users HTTP/1.1" 204 1684
+132.44.234.154 - - [16/Sep/2025:11:31:49 +0200] "GET /api/v1/settings HTTP/1.1" 500 8707
+144.13.206.170 - - [16/Sep/2025:11:31:54 +0200] "PUT /health HTTP/1.1" 500 760
+225.169.127.164 - - [16/Sep/2025:11:31:59 +0200] "POST /api/v1/users HTTP/1.1" 500 4608
+90.45.35.241 - - [16/Sep/2025:11:32:04 +0200] "PUT /dashboard HTTP/1.1" 304 10764
+58.214.57.77 - - [16/Sep/2025:11:32:09 +0200] "PUT /api/v1/orders HTTP/1.1" 302 1925
+151.65.180.211 - - [16/Sep/2025:11:32:14 +0200] "GET /api/v1/users HTTP/1.1" 500 1773
+221.166.129.95 - - [16/Sep/2025:11:32:19 +0200] "PUT /api/v1/orders HTTP/1.1" 302 10074
+107.163.46.150 - - [16/Sep/2025:11:32:24 +0200] "PUT /api/v1/products HTTP/1.1" 302 3567
+27.52.166.197 - - [16/Sep/2025:11:32:29 +0200] "POST /api/v1/orders HTTP/1.1" 304 3888
+99.87.92.76 - - [16/Sep/2025:11:32:34 +0200] "PUT /api/v1/users HTTP/1.1" 304 9501
+246.15.5.188 - - [16/Sep/2025:11:32:39 +0200] "POST /api/v1/login HTTP/1.1" 201 6050
+141.224.205.29 - - [16/Sep/2025:11:32:44 +0200] "GET /logout HTTP/1.1" 200 5765
+153.235.21.55 - - [16/Sep/2025:11:32:49 +0200] "PUT /api/v1/login HTTP/1.1" 204 3922
+108.222.108.159 - - [16/Sep/2025:11:32:54 +0200] "PUT /api/v1/login HTTP/1.1" 201 10831
+84.197.139.210 - - [16/Sep/2025:11:32:59 +0200] "DELETE /dashboard HTTP/1.1" 200 1343
+230.36.65.118 - - [16/Sep/2025:11:33:04 +0200] "PUT /api/v1/products HTTP/1.1" 401 7622
+187.101.90.116 - - [16/Sep/2025:11:33:09 +0200] "PUT /api/v1/users HTTP/1.1" 302 9924
+149.246.30.84 - - [16/Sep/2025:11:33:14 +0200] "PUT /api/v1/products HTTP/1.1" 200 9376
+226.175.152.90 - - [16/Sep/2025:11:33:19 +0200] "PUT /logout HTTP/1.1" 200 2663
+148.110.249.5 - - [16/Sep/2025:11:33:24 +0200] "GET /api/v1/settings HTTP/1.1" 304 10264
+195.209.144.63 - - [16/Sep/2025:11:33:29 +0200] "GET /api/v1/products HTTP/1.1" 204 7153
+129.78.37.151 - - [16/Sep/2025:11:33:34 +0200] "DELETE /static/js/app.js HTTP/1.1" 401 11907
+109.68.249.79 - - [16/Sep/2025:11:33:39 +0200] "POST /static/js/app.js HTTP/1.1" 304 8879
+149.229.56.38 - - [16/Sep/2025:11:33:44 +0200] "DELETE /logout HTTP/1.1" 201 8516
+146.39.134.198 - - [16/Sep/2025:11:33:49 +0200] "POST /dashboard HTTP/1.1" 401 9773
+224.255.173.35 - - [16/Sep/2025:11:33:54 +0200] "PUT /api/v1/products HTTP/1.1" 304 10846
+58.236.24.19 - - [16/Sep/2025:11:33:59 +0200] "PUT /api/v1/products HTTP/1.1" 304 4305
+63.68.27.139 - - [16/Sep/2025:11:34:04 +0200] "DELETE /api/v1/products HTTP/1.1" 200 9146
+250.174.34.138 - - [16/Sep/2025:11:34:09 +0200] "POST /logout HTTP/1.1" 304 7267
+96.129.189.57 - - [16/Sep/2025:11:34:14 +0200] "DELETE /api/v1/orders HTTP/1.1" 201 2116
+226.251.249.244 - - [16/Sep/2025:11:34:19 +0200] "GET /api/v1/products HTTP/1.1" 201 3695
+34.37.115.239 - - [16/Sep/2025:11:34:24 +0200] "DELETE /api/v1/users HTTP/1.1" 204 10092
+222.103.75.245 - - [16/Sep/2025:11:34:29 +0200] "POST /dashboard HTTP/1.1" 201 3086
+187.24.163.196 - - [16/Sep/2025:11:34:34 +0200] "PUT /api/v1/users HTTP/1.1" 500 11696
+241.42.165.198 - - [16/Sep/2025:11:34:39 +0200] "DELETE /api/v1/users HTTP/1.1" 200 11443
+133.230.87.46 - - [16/Sep/2025:11:34:44 +0200] "PUT /api/v1/login HTTP/1.1" 201 4608
+80.247.90.76 - - [16/Sep/2025:11:34:49 +0200] "DELETE /dashboard HTTP/1.1" 201 2297
+77.186.235.29 - - [16/Sep/2025:11:34:54 +0200] "GET /health HTTP/1.1" 304 11298
+31.59.177.113 - - [16/Sep/2025:11:34:59 +0200] "GET /dashboard HTTP/1.1" 302 9250
+245.170.197.136 - - [16/Sep/2025:11:35:04 +0200] "DELETE /health HTTP/1.1" 304 2926
+242.137.184.192 - - [16/Sep/2025:11:35:09 +0200] "PUT /static/js/app.js HTTP/1.1" 200 4139
+156.60.163.17 - - [16/Sep/2025:11:35:14 +0200] "POST /api/v1/users HTTP/1.1" 401 9017
+22.79.145.223 - - [16/Sep/2025:11:35:19 +0200] "POST /api/v1/settings HTTP/1.1" 500 9482
+34.20.236.171 - - [16/Sep/2025:11:35:24 +0200] "GET /api/v1/login HTTP/1.1" 500 11912
+1.1.195.176 - - [16/Sep/2025:11:35:29 +0200] "GET /dashboard HTTP/1.1" 201 11086
+194.210.236.27 - - [16/Sep/2025:11:35:34 +0200] "PUT /api/v1/products HTTP/1.1" 200 6030
+135.9.247.176 - - [16/Sep/2025:11:35:39 +0200] "PUT /api/v1/settings HTTP/1.1" 302 7560
+63.73.64.123 - - [16/Sep/2025:11:35:44 +0200] "DELETE /health HTTP/1.1" 500 10211
+22.103.148.179 - - [16/Sep/2025:11:35:49 +0200] "GET /api/v1/orders HTTP/1.1" 401 7264
+20.82.172.64 - - [16/Sep/2025:11:35:54 +0200] "DELETE /health HTTP/1.1" 302 3626
+23.184.186.163 - - [16/Sep/2025:11:35:59 +0200] "GET /api/v1/login HTTP/1.1" 201 11462
+133.117.188.21 - - [16/Sep/2025:11:36:04 +0200] "POST /dashboard HTTP/1.1" 302 2928
+155.241.79.15 - - [16/Sep/2025:11:36:09 +0200] "DELETE /dashboard HTTP/1.1" 500 165
+252.92.29.111 - - [16/Sep/2025:11:36:14 +0200] "DELETE /api/v1/orders HTTP/1.1" 204 8400
+183.182.158.214 - - [16/Sep/2025:11:36:19 +0200] "GET /api/v1/settings HTTP/1.1" 200 444
+246.21.54.233 - - [16/Sep/2025:11:36:24 +0200] "POST /health HTTP/1.1" 401 11249
+202.138.155.36 - - [16/Sep/2025:11:36:29 +0200] "DELETE /dashboard HTTP/1.1" 201 3800
+230.144.137.22 - - [16/Sep/2025:11:36:34 +0200] "GET /api/v1/users HTTP/1.1" 200 10932
+203.142.40.137 - - [16/Sep/2025:11:36:39 +0200] "PUT /health HTTP/1.1" 304 7233
+188.203.86.93 - - [16/Sep/2025:11:36:44 +0200] "GET /api/v1/settings HTTP/1.1" 401 916
