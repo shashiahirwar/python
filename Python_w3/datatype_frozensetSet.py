@@ -7,3 +7,4 @@ fs = frozenset(["applye", "mango", "cherry", "banana"])
 
 print(fs)
 
+# Frozen set (immutable)

@@ -1,0 +1,13 @@
+# Base image
+FROM python:3.9-slim
+MAINTAINER shashi<shashi.ahi@gmail.com>
+
+# Set working directory
+WORKDIR /app
+
+# Copy app files into container
+COPY Fibonacci series.py .
+
+# Command to run the application
+CMD ["python", "app.py"]
+
